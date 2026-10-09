@@ -1,19 +1,25 @@
 # 👋 Hi, I'm Siddhi
 
-Cybersecurity enthusiast focused on **defensive security**, network analysis, and building practical security tools.
+Defensive security focused — **threat detection**, incident response, and building tools that help blue teams stay ahead.
 
 ## 🔧 What I work with
 
 - **Languages:** Python
-- **Tools:** Nmap, Wireshark, Metasploit, Kali Linux, Netcat
-- **Focus:** Penetration testing, network reconnaissance, traffic analysis, file integrity
+- **Tools:** Wireshark, Suricata, Sigma, Splunk, ELK Stack, Kali Linux
+- **Focus:** Network traffic analysis, threat hunting, log correlation, incident response
 
 ## 📂 Highlights
 
-- **pentest-toolkit** – Modular Python pen-testing toolkit with scanner, banner grabber & brute module
-- **file-integrity-checker** – Hash-based CLI tool for detecting unauthorised file changes
-- **DNS/HTTPS-TLS Handshake Analysis** – Packet-level deep dive into SNI & TLS metadata
+- **file-integrity-checker** – Hash-based CLI tool for detecting unauthorised file changes (FIM)
+- **DNS/HTTPS-TLS Handshake Analysis** – Packet-level deep dive into SNI & TLS metadata for threat detection
+- **pentest-toolkit** – Built to understand attacker TTPs from the defender's side
 
 ## 🎯 Currently
 
-Learning SOC detection engineering & expanding my toolkit into new attack vectors.   
+Expanding into **SIEM rule writing** (Sigma/Splunk), **EDR telemetry**, and **detection engineering**.
+
+## 📚 Learning
+
+- MITRE ATT&CK framework
+- SOC analyst workflows
+- Python for log analysis & automation   
