@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Siddhi
 
-Cybersecurity enthusiast focused on **offensive security**, network analysis, and building practical security tools.
+Cybersecurity enthusiast focused on **defensive security**, network analysis, and building practical security tools.
 
 ## 🔧 What I work with
 
